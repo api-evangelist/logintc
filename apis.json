@@ -1,0 +1,61 @@
+{
+    "name": "LoginTC",
+    "description": "The Best Solution for Two Factor Authentication. The most simple and secure way to protect company logins from account takeovers and data theft.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1800-logintc.jpg",
+    "tags": [
+        "api provider",
+        "authentication",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/logintc\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LoginTC",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1800-logintc.jpg",
+            "humanURL": "https:\/\/www.logintc.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/logintc-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.logintc.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.logintc.com\/blog\/rss.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cyphercor"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.logintc.com\/docs\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/logintc"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/logintc"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.logintc.com\/"
+        }
+    ]
+}
